@@ -61,7 +61,8 @@ public class KeenonApiDemoMain extends BaseActivity {
 
   private static final DemoInfo[] DEMOS = {
           new DemoInfo(R.drawable.info, R.string.demo_title_baselist, R.string.demo_desc_baselist, BaseDemo.class),
-          new DemoInfo(R.drawable.chassis, R.string.demo_title_chassislist, R.string.demo_desc_chassislist, ChassisList.class)
+          new DemoInfo(R.drawable.chassis, R.string.demo_title_chassislist, R.string.demo_desc_chassislist, ChassisList.class),
+          new DemoInfo(R.drawable.perception, R.string.demo_title_test_perception, R.string.demo_desc_test_perception, TestPerception.class)
   };
   private boolean isPermissionRequested;
   private PeanutSDK.ErrorListener mErrorListener = errorCode -> {

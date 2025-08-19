@@ -30,6 +30,9 @@
             android:name=".base.BaseDemo"
             android:label="@string/demo_title_baselist" />
         <activity
+            android:name=".TestPerception"
+            android:label="@string/demo_title_test_perception" />
+        <activity
             android:name=".chassis.ChassisList"
             android:label="@string/demo_title_chassislist" />
         <activity

@@ -9,6 +9,8 @@
     <string name="demo_desc_baselist">Robot equipment list, module information, version information, mileage, etc</string>
     <string name="demo_title_chassislist">Chassis function</string>
     <string name="demo_desc_chassislist">Robot navigation, charging, motor control, etc</string>
+    <string name="demo_title_test_perception">Test Perception</string>
+    <string name="demo_desc_test_perception">Test robot perception and sensor functions</string>
     <string name="demo_title_navigation">Navigation function</string>
     <string name="demo_desc_navigation">Navigation control and status information</string>
     <string name="demo_title_pilot">Navigation control</string>
